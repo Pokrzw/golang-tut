@@ -10,7 +10,7 @@ Main function to bd entrypoint z ktorego go zacznie kompilowac nasz program
 Executing go app:
 >go run file_name.go
 
-```
+```go
 package henlo
 
 import "fmt"
