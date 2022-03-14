@@ -24,7 +24,7 @@ zmienna: var
 stała: const   
 deklarowanie zmiennej, do ktorej potem przypiszemy wartosc: 
 >var nazwa typ_zmiennej (np var name string)
-drukowanie typu zmiennej:    
+drukowanie typu zmiennej:     
 Printf("%T", nazwa_zmiennej)
 
 https://www.youtube.com/watch?v=yyUHQIec83I
